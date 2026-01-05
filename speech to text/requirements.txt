@@ -1,0 +1,8 @@
+# Speech Recognition Library
+SpeechRecognition==3.10.0
+
+# Audio Input/Output
+pyaudio==0.2.13
+
+# Optional: Audio file manipulation
+pydub==0.25.1
